@@ -6,7 +6,7 @@
 # in postman
 *to get list of phones*
 
-http://0.0.0.0:3000/phones/index.json
+http://0.0.0.0:3000/phones
 
 *to generate random phone*
 
